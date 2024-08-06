@@ -6,6 +6,15 @@ Run the following commands:
 yarn install
 yarn start
 ```
+## Running The Production-Ready Build
+
+Run the following commands:
+
+```bash
+yarn install
+yarn build
+yarn start:production
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
