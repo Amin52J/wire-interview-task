@@ -1,0 +1,70 @@
+type FooterItem = {
+  text: string;
+  link: string;
+};
+
+export const footerItems: FooterItem[] = [
+  { text: "VeePN VPN", link: "https://veepn.com/vpn-apps/vpn-for-chrome/" },
+  { text: "Partition Wizard", link: "https://www.partitionwizard.com" },
+  { text: "MiniTool", link: "https://www.minitool.com" },
+  { text: "metrodetroitreview.com", link: "http://www.metrodetroitreview.com" },
+  { text: "Vasyl Kafidov", link: "https://kafidoff.com/" },
+  { text: "AppDrawn", link: "https://www.appdrawn.com/" },
+  { text: "Butikkene.no", link: "https://www.butikkene.no/" },
+  { text: "swiindex.com", link: "https://swiindex.com/" },
+  {
+    text: "Plumbing News and More",
+    link: "https://www.plumbingnewsandmore.com/",
+  },
+  { text: "CBD Gummies", link: "https://www.edwinsedibles.com" },
+  { text: "Cyberogism", link: "https://cyberogism.com/" },
+  {
+    text: "Five Guys Plumbing Dearborn",
+    link: "http://www.fiveguysplumbingdearborn.com",
+  },
+  { text: "Talousapu.fi", link: "https://talousapu.fi/" },
+  { text: "GlassesOnWeb.com", link: "https://www.glassesonweb.com/" },
+  { text: "Arkiraha", link: "https://www.arkiraha.fi/" },
+  { text: "Quickbooks Tool Hub", link: "https://quickbookstoolhub.com/" },
+  { text: "Open Source Collective", link: "https://oscollective.org/" },
+  { text: "Open Source Collective", link: "https://oscollective.org/" },
+  { text: "iBeesoft", link: "https://www.ibeesoft.com/" },
+  { text: "Legalbet", link: "https://legalbet.uk/" },
+  { text: "Mister Auto", link: "https://www.mister-auto.com/" },
+  { text: "Richmond Concrete", link: "https://www.richmondconcretepros.com/" },
+  { text: "Per Andersen", link: "https://tankpenge.dk" },
+  { text: "Refermate", link: "https://www.refermate.com" },
+  {
+    text: "Bathroom Remodeling Westerville",
+    link: "https://www.bathroomremodelingwesterville.com",
+  },
+  { text: "Tank Coffee", link: "https://www.tankcoffee.com" },
+  { text: "EaseUS Germany", link: "https://www.easeus.de/" },
+  { text: "Rantent", link: "https://rantent.com/" },
+  { text: "Rekt Eddie's", link: "https://rekteddies.com/" },
+  { text: "Fire Stick Tricks", link: "https://www.firesticktricks.com" },
+  { text: "UpGrow", link: "https://www.upgrow.com/" },
+  { text: "UpGrow", link: "https://www.upgrow.com/" },
+  { text: "SLEX", link: "https://slex.io/" },
+  { text: "SLEX", link: "https://slex.io/" },
+  { text: "True Altitude", link: "https://truealtitude.shop/" },
+  { text: "True Altitude", link: "https://truealtitude.shop/" },
+  {
+    text: "Global Software Companies",
+    link: "https://www.globalsoftwarecompanies.com/",
+  },
+  {
+    text: "Global Software Companies",
+    link: "https://www.globalsoftwarecompanies.com/",
+  },
+  { text: "Troupon", link: "https://www.troupon.com" },
+  { text: "Troupon", link: "https://www.troupon.com" },
+  { text: "Minneapolis Towing", link: "https://minneapolistowingmn.com/" },
+  {
+    text: "Crypto Futures Trading Platforms",
+    link: "https://bestcryptofuturestradingplatform.com/",
+  },
+  { text: "EarthWeb", link: "https://earthweb.com/" },
+  { text: "Bountii", link: "https://bountii.coupons/" },
+  { text: "Social followers", link: "https://www.socialfollowers.uk/" },
+];
